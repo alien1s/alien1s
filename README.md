@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alien1s
-- 🌱 I’m currently learning so wait for me
-- Developer
+- 👋 Hi, I’m Alien
+- 🌱 I’m currently learning
 
 <!---
 alien1s/alien1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
