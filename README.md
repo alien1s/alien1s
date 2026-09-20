@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Alien
-- 🌱 I’m currently learning
 
 <!---
 alien1s/alien1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
