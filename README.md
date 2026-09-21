@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alien
+Hello, I’m Alien
 
 <!---
 alien1s/alien1s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
